@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieAppCompose</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="please_check_your_connection">Please check your internet connection</string>
+    <string name="Oops_something_went_wrong">Oops something went wrong</string>
+    <string name="top_rated_movies_poster">Top rated movies poster</string>
+    <string name="arrow_forward">Arrow forward</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_in">Log in</string>
+    <string name="home">Home</string>
+    <string name="video">Video</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="throwable"> %d </string>
+    <string name="popular_movies">Popular Movie</string>
+    <string name="view_popular">Most Popular</string>
+    <string name="view_top">Top Rated</string>
+    <string name="view_air">On the Air</string>
+    <string name="star_rate">StarRate</string>
+    <string name="description">Description</string>
+    <string name="authors">Authors</string>
+    <string name="episodes">Episodes</string>
+    <string name="seasons">Seasons</string>
+    <string name="overview">Overview</string>
+    <string name="back">backArrow</string>
+    <string name="reviews">Reviews</string>
+</resources>
